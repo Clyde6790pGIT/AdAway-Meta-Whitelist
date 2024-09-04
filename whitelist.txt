@@ -42,3 +42,4 @@
 @@|b-api.facebook.com^$important
 @@|l.messenger.com^$important
 @@|gateway.facebook.com^$important
+@@|messenger.com^$important
