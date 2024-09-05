@@ -81,3 +81,11 @@
 @@|z-p42-instagram.c10r.facebook.com^$important
 @@|facebook.com^$important
 @@|www.instagram.com^$important
+@@|media-mxp1-1.cdn.whatsapp.net^$important
+@@|mmx-ds.cdn.whatsapp.net^$important
+@@|g.whatsapp.net^$important
+@@|web.whatsapp.com^$important
+@@|www.whatsapp.com^$important
+@@|faq.whatsapp.com^$important
+@@|scontent.whatsapp.net^$important
+@@|static.whatsapp.net^$important
