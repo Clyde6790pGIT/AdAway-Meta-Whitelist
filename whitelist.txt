@@ -20,6 +20,7 @@
 @@|instagram.fmnl4-6.fna.fbcdn.net^$important
 @@|instagram.fmnl4-7.fna.fbcdn.net^$important
 @@|snaptu-z.facebook.com^$important
+@@|mqtt-mini.facebook.com^$important
 @@|scontent-lhr3-1.xx.fbcdn.net^$important
 @@|scontent.fmnl4-1.fna.fbcdn.net^$important
 @@|scontent.fmnl4-2.fna.fbcdn.net^$important
