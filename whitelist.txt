@@ -29,6 +29,7 @@
 @@|api.facebook.com^$important
 @@|edge-mqtt.facebook.com^$important
 @@|edge-mqtt-fallback.facebook.com^%important
+@@|reg-e2ee.facebook.com^$important
 @@|mqtt.c10r.facebook.com^$important
 @@|portal.fb.com^$important
 @@|star.c10r.facebook.com^$important
