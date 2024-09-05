@@ -15,6 +15,7 @@
 @@|external.fmnl4-7.fna.fbcdn.net^$important
 @@|external-lhr3-1.xx.fbcdn.net^$important
 @@|external-lhr4-1.xx.fbcdn.net^$important
+@@|reg-e2ee.instagram.com^$important
 @@|external-lhr5-1.xx.fbcdn.net^$important
 @@|external-lhr6-1.xx.fbcdn.net^$important
 @@|external-lhr7-1.xx.fbcdn.net^$important
