@@ -13,6 +13,7 @@
 @@|external-lhr9-1.xx.fbcdn.net^$important
 @@|fbcdn-creative-a.akamaihd.net^$important
 @@|z-p42-instagram.c10r.instagram.com^$important
+@@|b.i.instagram.com^$important
 @@|m.facebook.com^$important
 @@|instagram.fmnl4-1.fna.fbcdn.net^$important
 @@|instagram.fmnl4-2.fna.fbcdn.net^$important
