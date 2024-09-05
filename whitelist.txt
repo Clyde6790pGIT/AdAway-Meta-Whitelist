@@ -4,6 +4,13 @@
 @@|external-lhr1-1.xx.fbcdn.net^$important
 @@|external-lhr10-1.xx.fbcdn.net^$important
 @@|external-lhr2-1.xx.fbcdn.net^$important
+@@|external.fmnl4-1.fna.fbcdn.net^$important
+@@|external.fmnl4-2.fna.fbcdn.net^$important
+@@|external.fmnl4-3.fna.fbcdn.net^$important
+@@|external.fmnl4-4.fna.fbcdn.net^$important
+@@|external.fmnl4-5.fna.fbcdn.net^$important
+@@|external.fmnl4-6.fna.fbcdn.net^$important
+@@|external.fmnl4-7.fna.fbcdn.net^$important
 @@|external-lhr3-1.xx.fbcdn.net^$important
 @@|external-lhr4-1.xx.fbcdn.net^$important
 @@|external-lhr5-1.xx.fbcdn.net^$important
