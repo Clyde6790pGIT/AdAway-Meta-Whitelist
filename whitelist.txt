@@ -54,7 +54,6 @@
 @@|messenger.com^$important
 @@|www.wa.me^$important
 @@|wa.me^$important
-@@|gateway.instagram.com^$important
 @@|i.instagram.com^$important
 @@|gateway.instagram.com^$important
 @@|z-p42-instagram.c10r.facebook.com^$important
