@@ -29,6 +29,9 @@
 @@|api.facebook.com^$important
 @@|edge-mqtt.facebook.com^$important
 @@|edge-mqtt-fallback.facebook.com^%important
+@@|z-p42-chat-e2ee-ig.facebook.com^$important
+@@|web-chat-e2ee.facebook.com^$important
+@@|chat-e2ee-mini.facebook.com^$important
 @@|reg-e2ee.facebook.com^$important
 @@|mqtt.c10r.facebook.com^$important
 @@|portal.fb.com^$important
