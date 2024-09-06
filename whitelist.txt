@@ -47,7 +47,6 @@
 @@|scontent.fmnl4-7.fna.fbcdn.net^$important
 @@|scontent.xx.fbcdn.net^$important
 @@|scontent.fgdl5-1.fna.fbcdn.net^$important
-@@|graph.facebook.com^$important
 @@|b-graph.facebook.com^$important
 @@|connect.facebook.com^$important
 @@|cdn.fbsbx.com^$important
