@@ -1,6 +1,7 @@
 @@|upload.facebook.com^$important
 @@|v.whatsapp.net^$important
 @@|connect.facebook.net^$important
+@@star.fallback.c10r.facebook.com^$important
 @@|creative.ak.fbcdn.net^$important
 @@|external-lhr0-1.xx.fbcdn.net^$important
 @@|external-lhr1-1.xx.fbcdn.net^$important
