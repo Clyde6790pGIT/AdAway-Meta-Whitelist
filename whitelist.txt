@@ -6,6 +6,7 @@
 @@|external-lhr0-1.xx.fbcdn.net^$important
 @@|external-lhr1-1.xx.fbcdn.net^$important
 @@|external-lhr10-1.xx.fbcdn.net^$important
+@@|edge-chat.instagram.com^$important
 @@|external-lhr2-1.xx.fbcdn.net^$important
 @@|graph.facebook.com^$important
 @@|scontent.cdninstagram.com^$important
