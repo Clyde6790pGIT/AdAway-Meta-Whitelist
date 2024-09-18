@@ -69,6 +69,7 @@
 @@|www.facebook.com^$important
 @@|scontent-atl3-1.xx.fbcdn.net^$important
 @@|static.xx.fbcdn.net^$important
+@@|web-chat-e2ee.instagram.com^$important
 @@|edge-chat.messenger.com^$important
 @@|video.xx.fbcdn.net^$important
 @@|external-ort2-1.xx.fbcdn.net^$important
