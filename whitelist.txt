@@ -48,6 +48,13 @@
 @@|scontent.fmnl4-5.fna.fbcdn.net^$important
 @@|scontent.fmnl4-6.fna.fbcdn.net^$important
 @@|scontent.fmnl4-7.fna.fbcdn.net^$important
+@@|scontent.fmnl8-1.fna.fbcdn.net^$important
+@@|scontent.fmnl8-2.fna.fbcdn.net^$important
+@@|scontent.fmnl8-3.fna.fbcdn.net^$important
+@@|scontent.fmnl8-4.fna.fbcdn.net^$important
+@@|scontent.fmnl8-5.fna.fbcdn.net^$important
+@@|scontent.fmnl8-6.fna.fbcdn.net^$important
+@@|scontent.fmnl8-7.fna.fbcdn.net^$important
 @@|scontent.fmnl9-1.fna.fbcdn.net^$important
 @@|scontent.fmnl9-2.fna.fbcdn.net^$important
 @@|scontent.fmnl9-3.fna.fbcdn.net^$important
