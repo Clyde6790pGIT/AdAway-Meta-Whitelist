@@ -1,114 +1,114 @@
-allow upload.facebook.com
-allow v.whatsapp.net
-allow connect.facebook.net
-allow star.fallback.c10r.facebook.com
-allow creative.ak.fbcdn.net
-allow external-lhr0-1.xx.fbcdn.net
-allow external-lhr1-1.xx.fbcdn.net
-allow external-lhr10-1.xx.fbcdn.net
-allow edge-chat.instagram.com
-allow external-lhr2-1.xx.fbcdn.net
-allow graph.facebook.com
-allow scontent.cdninstagram.com
-allow external.fmnl4-1.fna.fbcdn.net
-allow www.fbsbx.com
-allow external.fmnl4-2.fna.fbcdn.net
-allow external.fmnl4-3.fna.fbcdn.net
-allow external.fmnl4-4.fna.fbcdn.net
-allow external.fmnl4-5.fna.fbcdn.net
-allow external.fmnl4-6.fna.fbcdn.net
-allow external.fmnl4-7.fna.fbcdn.net
-allow external-lhr3-1.xx.fbcdn.net
-allow external-lhr4-1.xx.fbcdn.net
-allow reg-e2ee.instagram.com
-allow external-lhr5-1.xx.fbcdn.net
-allow external-lhr6-1.xx.fbcdn.net
-allow external-lhr7-1.xx.fbcdn.net
-allow external-lhr8-1.xx.fbcdn.net
-allow external-lhr9-1.xx.fbcdn.net
-allow fbcdn-creative-a.akamaihd.net
-allow z-p42-instagram.c10r.instagram.com
-allow b.i.instagram.com
-allow m.facebook.com
-allow instagram.fmnl4-1.fna.fbcdn.net
-allow instagram.fmnl4-2.fna.fbcdn.net
-allow instagram.fmnl4-3.fna.fbcdn.net
-allow instagram.fmnl4-4.fna.fbcdn.net
-allow instagram.fmnl4-5.fna.fbcdn.net
-allow instagram.fmnl4-6.fna.fbcdn.net
-allow instagram.fmnl4-7.fna.fbcdn.net
-allow snaptu-z.facebook.com
-allow static.cdninstagram.com
-allow mqtt-mini.facebook.com
-allow scontent-lhr3-1.xx.fbcdn.net
-allow scontent.fmnl4-1.fna.fbcdn.net
-allow scontent.fmnl4-2.fna.fbcdn.net
-allow scontent.fmnl4-3.fna.fbcdn.net
-allow scontent.fmnl4-4.fna.fbcdn.net
-allow scontent.fmnl4-5.fna.fbcdn.net
-allow scontent.fmnl4-6.fna.fbcdn.net
-allow scontent.fmnl4-7.fna.fbcdn.net
-allow scontent.fmnl8-1.fna.fbcdn.net
-allow scontent.fmnl8-2.fna.fbcdn.net
-allow scontent.fmnl8-3.fna.fbcdn.net
-allow scontent.fmnl8-4.fna.fbcdn.net
-allow scontent.fmnl8-5.fna.fbcdn.net
-allow scontent.fmnl8-6.fna.fbcdn.net
-allow scontent.fmnl8-7.fna.fbcdn.net
-allow scontent.fmnl9-1.fna.fbcdn.net
-allow scontent.fmnl9-2.fna.fbcdn.net
-allow scontent.fmnl9-3.fna.fbcdn.net
-allow scontent.fmnl9-4.fna.fbcdn.net
-allow scontent.fmnl9-5.fna.fbcdn.net
-allow scontent.fmnl9-6.fna.fbcdn.net
-allow scontent.fmnl9-7.fna.fbcdn.net
-allow scontent.xx.fbcdn.net
-allow scontent.fgdl5-1.fna.fbcdn.net
-allow b-graph.facebook.com
-allow connect.facebook.com
-allow cdn.fbsbx.com
-allow api.facebook.com
-allow edge-mqtt.facebook.com
-allow edge-mqtt-fallback.facebook.com^%important
-allow z-p42-chat-e2ee-ig.facebook.com
-allow web-chat-e2ee.facebook.com
-allow chat-e2ee-mini.facebook.com
-allow reg-e2ee.facebook.com
-allow mqtt.c10r.facebook.com
-allow portal.fb.com
-allow star.c10r.facebook.com
-allow star-mini.c10r.facebook.com
-allow fb.me
-allow bigzipfiles.facebook.com
-allow l.facebook.com
-allow www.facebook.com
-allow scontent-atl3-1.xx.fbcdn.net
-allow static.xx.fbcdn.net
-allow web-chat-e2ee.instagram.com
-allow edge-chat.messenger.com
-allow video.xx.fbcdn.net
-allow external-ort2-1.xx.fbcdn.net
-allow scontent-ort2-1.xx.fbcdn.net
-allow edge-chat.facebook.com
-allow scontent-mia3-1.xx.fbcdn.net
-allow web.facebook.com
-allow rupload.facebook.com
-allow b-api.facebook.com
-allow l.messenger.com
-allow gateway.facebook.com
-allow messenger.com
-allow www.wa.me
-allow wa.me
-allow i.instagram.com
-allow gateway.instagram.com
-allow z-p42-instagram.c10r.facebook.com
-allow facebook.com
-allow www.instagram.com
-allow media-mxp1-1.cdn.whatsapp.net
-allow mmx-ds.cdn.whatsapp.net
-allow g.whatsapp.net
-allow web.whatsapp.com
-allow www.whatsapp.com
-allow faq.whatsapp.com
-allow scontent.whatsapp.net
-allow static.whatsapp.net
+upload.facebook.com
+v.whatsapp.net
+connect.facebook.net
+star.fallback.c10r.facebook.com
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+edge-chat.instagram.com
+external-lhr2-1.xx.fbcdn.net
+graph.facebook.com
+scontent.cdninstagram.com
+external.fmnl4-1.fna.fbcdn.net
+www.fbsbx.com
+external.fmnl4-2.fna.fbcdn.net
+external.fmnl4-3.fna.fbcdn.net
+external.fmnl4-4.fna.fbcdn.net
+external.fmnl4-5.fna.fbcdn.net
+external.fmnl4-6.fna.fbcdn.net
+external.fmnl4-7.fna.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+reg-e2ee.instagram.com
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+z-p42-instagram.c10r.instagram.com
+b.i.instagram.com
+m.facebook.com
+instagram.fmnl4-1.fna.fbcdn.net
+instagram.fmnl4-2.fna.fbcdn.net
+instagram.fmnl4-3.fna.fbcdn.net
+instagram.fmnl4-4.fna.fbcdn.net
+instagram.fmnl4-5.fna.fbcdn.net
+instagram.fmnl4-6.fna.fbcdn.net
+instagram.fmnl4-7.fna.fbcdn.net
+snaptu-z.facebook.com
+static.cdninstagram.com
+mqtt-mini.facebook.com
+scontent-lhr3-1.xx.fbcdn.net
+scontent.fmnl4-1.fna.fbcdn.net
+scontent.fmnl4-2.fna.fbcdn.net
+scontent.fmnl4-3.fna.fbcdn.net
+scontent.fmnl4-4.fna.fbcdn.net
+scontent.fmnl4-5.fna.fbcdn.net
+scontent.fmnl4-6.fna.fbcdn.net
+scontent.fmnl4-7.fna.fbcdn.net
+scontent.fmnl8-1.fna.fbcdn.net
+scontent.fmnl8-2.fna.fbcdn.net
+scontent.fmnl8-3.fna.fbcdn.net
+scontent.fmnl8-4.fna.fbcdn.net
+scontent.fmnl8-5.fna.fbcdn.net
+scontent.fmnl8-6.fna.fbcdn.net
+scontent.fmnl8-7.fna.fbcdn.net
+scontent.fmnl9-1.fna.fbcdn.net
+scontent.fmnl9-2.fna.fbcdn.net
+scontent.fmnl9-3.fna.fbcdn.net
+scontent.fmnl9-4.fna.fbcdn.net
+scontent.fmnl9-5.fna.fbcdn.net
+scontent.fmnl9-6.fna.fbcdn.net
+scontent.fmnl9-7.fna.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+b-graph.facebook.com
+connect.facebook.com
+cdn.fbsbx.com
+api.facebook.com
+edge-mqtt.facebook.com
+edge-mqtt-fallback.facebook.com^%important
+z-p42-chat-e2ee-ig.facebook.com
+web-chat-e2ee.facebook.com
+chat-e2ee-mini.facebook.com
+reg-e2ee.facebook.com
+mqtt.c10r.facebook.com
+portal.fb.com
+star.c10r.facebook.com
+star-mini.c10r.facebook.com
+fb.me
+bigzipfiles.facebook.com
+l.facebook.com
+www.facebook.com
+scontent-atl3-1.xx.fbcdn.net
+static.xx.fbcdn.net
+web-chat-e2ee.instagram.com
+edge-chat.messenger.com
+video.xx.fbcdn.net
+external-ort2-1.xx.fbcdn.net
+scontent-ort2-1.xx.fbcdn.net
+edge-chat.facebook.com
+scontent-mia3-1.xx.fbcdn.net
+web.facebook.com
+rupload.facebook.com
+b-api.facebook.com
+l.messenger.com
+gateway.facebook.com
+messenger.com
+www.wa.me
+wa.me
+i.instagram.com
+gateway.instagram.com
+z-p42-instagram.c10r.facebook.com
+facebook.com
+www.instagram.com
+media-mxp1-1.cdn.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+g.whatsapp.net
+web.whatsapp.com
+www.whatsapp.com
+faq.whatsapp.com
+scontent.whatsapp.net
+static.whatsapp.net
